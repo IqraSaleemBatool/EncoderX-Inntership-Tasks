@@ -16,7 +16,7 @@ Each task is organized separately in the repository for easy understanding and r
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Jupyter Notebook
+- Google Colab Notebook
 
 ## Repository Contents
 
