@@ -158,4 +158,4 @@ Customer-Shopping-Behavior-Analysis/
 ├── cleaned_customer_shopping_behavior.csv
 ├── README.md
 ├── report.pdf
-
+├── shopping_trends.csv
