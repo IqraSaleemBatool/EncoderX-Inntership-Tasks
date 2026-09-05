@@ -59,7 +59,7 @@ The dataset contains customer shopping information such as:
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google Colab Notebook
 
 ---
 
