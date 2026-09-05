@@ -109,7 +109,7 @@ The analysis covers:
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 The project includes the following visualizations:
 
