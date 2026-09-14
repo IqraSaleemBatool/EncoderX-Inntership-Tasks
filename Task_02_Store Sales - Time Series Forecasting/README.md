@@ -79,9 +79,9 @@ Task 2/
 │   └── forecast_results.csv
 │
 └── plots/
-    ├── actual_vs_predicted.png
-    ├── sales_forecast.png
-    └── feature_importance.png
+    ├── actual vs predicted.png
+    ├── sales forecast.png
+    └── feature importance.png
 ```
 
 ## Tools
