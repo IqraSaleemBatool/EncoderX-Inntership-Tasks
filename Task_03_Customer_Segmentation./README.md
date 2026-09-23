@@ -1,47 +1,34 @@
-
 # Customer Segmentation Using K-Means Clustering
 
-##  Project Overview
+**EncoderX Data Science Internship – Batch 02 | Task 3**
 
-This project focuses on customer segmentation using **K-Means clustering**. The goal is to identify groups of customers with similar demographic and spending characteristics.
+A machine learning project for identifying customer segments based on demographic characteristics, annual income, and spending behavior.
 
-The analysis uses customer **Age, Annual Income, and Spending Score** to identify meaningful customer segments that can support targeted marketing and customer engagement strategies.
+## Objective
 
----
+- Analyze customer demographic and spending characteristics.
+- Perform data preprocessing and exploratory data analysis.
+- Select relevant features and scale numerical variables.
+- Determine a suitable number of customer clusters.
+- Apply K-Means clustering.
+- Visualize and interpret customer segments.
+- Generate business insights and recommendations.
 
-##  Objective
+## Dataset
 
-The main objectives of this project are to:
+The project uses the **Mall Customers Dataset**, containing **200 customer records**.
 
-- Analyze customer demographic and spending characteristics
-- Preprocess and scale numerical features
-- Explore customer behavior through EDA and visualizations
-- Determine a suitable number of clusters
-- Apply K-Means clustering
-- Visualize and interpret customer segments
-- Provide business insights and recommendations
+Main features:
 
----
+- CustomerID
+- Gender
+- Age
+- Annual Income (k$)
+- Spending Score (1-100)
 
-##  Dataset
+`CustomerID` is used only as an identifier and is not included in clustering. `Gender` is retained for exploratory analysis and interpretation, while Age, Annual Income, and Spending Score are used as the clustering features.
 
-The project uses the **Mall Customers Dataset**, containing 200 customer records.
-
-### Features
-
-| Feature | Description |
-|---|---|
-| CustomerID | Unique identifier for each customer |
-| Gender | Customer gender |
-| Age | Customer age |
-| Annual Income (k$) | Annual income in thousands of dollars |
-| Spending Score (1-100) | Spending behavior score |
-
-`CustomerID` is used only as an identifier and is not included in clustering. `Gender` is retained for exploratory analysis and interpretation, while the K-Means model uses the numerical features.
-
----
-
-##  Technologies Used
+## Technologies
 
 - Python
 - Jupyter Notebook
@@ -51,7 +38,7 @@ The project uses the **Mall Customers Dataset**, containing 200 customer records
 - Seaborn
 - Scikit-learn
 
-### Machine Learning Techniques
+## Machine Learning Techniques
 
 - StandardScaler
 - K-Means Clustering
@@ -59,9 +46,7 @@ The project uses the **Mall Customers Dataset**, containing 200 customer records
 - Silhouette Score
 - Principal Component Analysis (PCA)
 
----
-
-##  Project Workflow
+## Project Workflow
 
 ```text
 Dataset
