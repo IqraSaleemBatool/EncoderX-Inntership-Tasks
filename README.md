@@ -4,7 +4,7 @@ This repository contains my work and completed tasks from the **EncoderX Remote 
 
 ## About
 
-During this internship, I am working on different Data Science tasks involving data analysis, visualization, preprocessing, and machine learning concepts.
+During this Internship, I am working on different Data Science tasks involving data analysis, visualization, preprocessing, and machine learning concepts.
 
 Each task is organized separately in the repository for easy understanding and reference.
 
