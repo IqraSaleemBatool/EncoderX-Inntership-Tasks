@@ -90,6 +90,8 @@ HR-Analytics-Dashboard/
 │
 ├── HR_Analytics_Dashboard.pbix
 │
+├── plots
+│
 ├── HR_Analytics_Cleabed.csv
 │
 ├── WA_Fn-UseC_-HR-Employee-Attrition
