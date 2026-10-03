@@ -105,13 +105,6 @@ HR-Analytics-Dashboard/
 
 This project demonstrates how HR data can be transformed into an interactive analytical dashboard. It provides insights into employee attrition patterns and workforce characteristics through KPI tracking, data visualization, and interactive filtering.
 
-## Future Improvements
-
-* Add more detailed analysis of factors associated with employee attrition.
-* Improve dashboard design and visual presentation.
-* Incorporate additional HR performance metrics.
-* Explore predictive modeling for employee attrition.
-
 ---
 
 **Project Category:** Data Analytics | HR Analytics | Business Intelligence
