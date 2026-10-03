@@ -99,8 +99,6 @@ HR-Analytics-Dashboard/
 └── README.md
 ```
 
-*Note: Adjust the folder and file names in this structure to match your actual repository.*
-
 ## Project Outcome
 
 This project demonstrates how HR data can be transformed into an interactive analytical dashboard. It provides insights into employee attrition patterns and workforce characteristics through KPI tracking, data visualization, and interactive filtering.
