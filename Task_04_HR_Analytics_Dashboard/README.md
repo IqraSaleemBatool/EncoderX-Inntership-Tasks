@@ -86,14 +86,13 @@ These metrics complement the attrition KPIs and provide an overview of employee 
 ```text
 HR-Analytics-Dashboard/
 │
-├── dataset/
-│   └── HR_cleaned_Analysis.csv
+├── HR_Analytics_Dashboard.ipynb
 │
-├── dashboard/
-│   └── HR_Analytics_Dashboard.pbix
+├── HR_Analytics_Dashboard.pbix
 │
-├── screenshots/
-│   └── dashboard_preview.png
+├── HR_Analytics_Cleabed.csv
+│
+├── WA_Fn-UseC_-HR-Employee-Attrition
 │
 └── README.md
 ```
