@@ -31,9 +31,9 @@ Main features:
 ## Technologies
 
 - Python
-- Jupyter Notebook
+- Colab Notebook
 - Pandas
-- NumPy
+- Numpy
 - Matplotlib
 - Seaborn
 - Scikit-learn
