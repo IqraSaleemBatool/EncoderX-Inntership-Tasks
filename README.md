@@ -33,8 +33,4 @@ The repository contains:
 **Program:** EncoderX Remote Internship  
 **Batch:** Data Science Batch 02
 
-## Author
-
-**Iqra Batool**
-
 Data Science Intern – EncoderX
