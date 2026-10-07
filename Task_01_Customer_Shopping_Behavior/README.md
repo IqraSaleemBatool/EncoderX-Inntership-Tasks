@@ -63,7 +63,7 @@ The dataset contains customer shopping information such as:
 
 ---
 
-##  Data Preprocessing
+##  Data PreProcessing
 
 The following preprocessing activities were performed:
 
@@ -81,7 +81,7 @@ The cleaned dataset is included in the repository.
 
 ##  Exploratory Data Analysis (EDA)
 
-The analysis covers:
+The Analysis covers:
 
 ### Customer Demographics
 - Gender distribution
@@ -113,7 +113,7 @@ The analysis covers:
 
 The project includes the following visualizations:
 
-- Bar Charts
+- Bar Chart
 - Line Chart
 - Histogram
 - Scatter Plot
