@@ -12,7 +12,7 @@ Each task is organized separately in the repository For easy understanding and r
 
 - Python
 - Pandas
-- NumPy
+- Numpy
 - Matplotlib
 - Seaborn
 - Scikit-learn
