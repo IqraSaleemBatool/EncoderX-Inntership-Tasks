@@ -22,7 +22,7 @@ Each task is organized separately in the repository For easy understanding and r
 
 The repository contains:
 
-- Internship task notebooks
+- Internship Task notebooks
 - Datasets and cleaned datasets
 - Analysis reports
 - Visualizations
