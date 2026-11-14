@@ -79,7 +79,7 @@ The dashboard visuals and KPI measures respond to the selected filters, allowing
 * **Employees Staying:** 1,233
 * **Retention Rate:** 83.88%
 
-These metrics complement the attrition KPIs and provide an overview of employee retention.
+These metrics Complement the attrition KPIs and provide an overview of employee retention.
 
 ## Project Structure
 
