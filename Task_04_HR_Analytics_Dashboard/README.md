@@ -14,7 +14,7 @@ An interactive **Power BI dashboard** was developed to explore employee demograp
 * Examine attrition across income, age, and tenure groups.
 * Develop an interactive dashboard for HR data exploration.
 
-##Dataset
+## Dataset
 
 * **Dataset:** IBM HR Employee Attrition Dataset
 * **Total Records:** 1,470 employees
@@ -35,7 +35,7 @@ Additional categorical features were created to support analysis, including:
 * **Python:** Data cleaning, preprocessing, and feature engineering.
 * **Pandas & NumPy:** Data manipulation and analysis.
 * **Power BI:** Interactive dashboard development and visualization.
-* **DAX:** KPI calculations and measures.
+* **DAX:** KPI Calculations and measures.
 
 ## Key Performance Indicators (KPIs)
 
